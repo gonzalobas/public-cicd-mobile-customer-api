@@ -13,7 +13,7 @@ pipeline {
     BG = "1Platform\\Public\\CI-CD Demo"
     WORKER = "Micro"
 
-    APPNAME = "frusso-mobile-customer-api"
+    APPNAME = "gbas1-mobile-customer-api"
 
     DEPLOY_BAT = "true"
   }
